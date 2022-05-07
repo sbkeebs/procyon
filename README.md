@@ -18,6 +18,6 @@ MX or Choc v1 switches, uses Kailh hotswap sockets for each
 ### name
 Named for a double star system in Canis Minor
 
-### license
+### licenses
 CERN Open Source Hardware  
 CC BY-SA 4.0
