@@ -16,7 +16,7 @@ doing initial commits, pcb should be intact, but files are not complete yet
 MX or Choc v1 switches, uses Kailh hotswap sockets for each
 
 ### config
-QMK keymap or (Vial)[https://get.vial.today]
+QMK keymap or [Vial](https://get.vial.today)
 
 ### name
 Named for a double star system in Canis Minor
