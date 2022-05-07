@@ -1,13 +1,15 @@
 # Procyon
 
+![Procyon logo](procyon_logo.png "Procyon")
+
 a 40% column-staggered split
 
-## layout
+### layout
 42 x 1u
 2 x 2u
 
-## compatibility
+### compatibility
 MX or Choc v1 switches, uses Kailh hotswap sockets for each
 
-## name
+### name
 Named for a double star system in Canis Minor
