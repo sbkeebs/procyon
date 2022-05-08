@@ -5,7 +5,7 @@
 a 40% column-staggered split
 
 ## status
-doing initial commits, pcb should be intact, but files are not complete yet
+doing initial commits, pcb should be intact, but files are not complete yet. still making sure i'm handling licenses right, also.
 
 ### layout
 42 x 1u  
